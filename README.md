@@ -7,7 +7,7 @@ EP01 - Introduction ✔
 EP02 - Create project ✔  
 EP03 - Project structure ✔  
 EP04 - Routing ✔  
-EP05 - Debugging
+EP05 - Debugging  
 EP06 -  
 EP07 -  
 EP08 -  
