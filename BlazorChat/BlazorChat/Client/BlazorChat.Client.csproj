@@ -15,7 +15,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Shared\BlazorChat.Shared.csproj" />
-    <ProjectReference Include="..\ThirdPartyChatLib\ThirdPartyChatLib.csproj" />
     
     <!--<ProjectReference Include="..\ThirdPartyChatLib\ThirdPartyChatLib.csproj" />
     <ProjectReference Include="..\Shared\BlazorChat.Shared.csproj" />-->

@@ -9,8 +9,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorChat.Client", "Blazor
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorChat.Shared", "BlazorChat\Shared\BlazorChat.Shared.csproj", "{294B71D3-0FDD-4A06-9279-9F82D85A72C1}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ThirdPartyChatLib", "BlazorChat\ThirdPartyChatLib\ThirdPartyChatLib.csproj", "{06DFB46E-6B7E-441F-A30E-460D0808126F}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -29,10 +27,6 @@ Global
 		{294B71D3-0FDD-4A06-9279-9F82D85A72C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{294B71D3-0FDD-4A06-9279-9F82D85A72C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{294B71D3-0FDD-4A06-9279-9F82D85A72C1}.Release|Any CPU.Build.0 = Release|Any CPU
-		{06DFB46E-6B7E-441F-A30E-460D0808126F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{06DFB46E-6B7E-441F-A30E-460D0808126F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{06DFB46E-6B7E-441F-A30E-460D0808126F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{06DFB46E-6B7E-441F-A30E-460D0808126F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
